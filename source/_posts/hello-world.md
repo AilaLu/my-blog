@@ -1,5 +1,5 @@
 ---
-title: Hello world
+title: hello world
 ---
 Welcome to [aila - like no otter](http://www.ailalu.com)! .
 
