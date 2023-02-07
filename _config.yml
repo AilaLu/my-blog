@@ -101,8 +101,10 @@ theme: cactus
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
-deploy:
-  type: ''
+deploy: 
+  type: git
+  repo: https://github.com/AilaLu/-Ailalu-.github.io.git
+  branch: main
 
 
 social_links:
